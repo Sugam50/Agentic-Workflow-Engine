@@ -1,5 +1,0 @@
-<script>start("/Users/sugam.agrawal/Agentic Workflow Engine/agents/");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("__init__.py","__init__.py",0,190,"190 B",1770008349,"2/2/26, 10:29:09 AM");</script>
-<script>addRow("executor_agent.py","executor_agent.py",0,6049,"5.9 kB",1770008349,"2/2/26, 10:29:09 AM");</script>
-<script>addRow("planner.py","planner.py",0,5742,"5.6 kB",1770008349,"2/2/26, 10:29:09 AM");</script>
